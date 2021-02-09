@@ -1,0 +1,10 @@
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\bin\Debug\Практика 2.exe.config
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\bin\Debug\Практика 2.exe
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\bin\Debug\Практика 2.pdb
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\obj\Debug\Практика 2.csprojAssemblyReference.cache
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\obj\Debug\Практика_2.Form1.resources
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\obj\Debug\Практика_2.Properties.Resources.resources
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\obj\Debug\Практика 2.csproj.GenerateResource.cache
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\obj\Debug\Практика 2.csproj.CoreCompileInputs.cache
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\obj\Debug\Практика 2.exe
+S:\source\repos\Информационные технологиии 4 сем\Практика 2\Практика 2\obj\Debug\Практика 2.pdb
