@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Практика_2
+namespace Практика_2_Индивидуальные_задания_12_вариант
 {
-    // Класс окна
     public partial class Form1 : Form
     {
         // Методы окна
@@ -28,7 +27,11 @@ namespace Практика_2
             textBox2.Text += Environment.NewLine +
                              "При x = " + x;
             // Вычисляем арифметическое выражение
-            var y = Math.Pow(x, 2);
+            //var y = Math.Sqrt(3 + (Math.Log(x) + 15 - x));
+            //y = y / (1 + Math.Sin((2 + Math.Pow(x, 2)) / (1 + x)));
+
+            var y = Math.Pow(Math.E, x - Math.Sqrt(x));
+            y = y / (Math.Log((x + 5) / (x + 1)) - 2 * (Math.Pow(x, 3) + x) / (1 + Math.Abs(Math.Sin(x))));
 
             // Выводим результат в окно
             textBox2.Text += Environment.NewLine +

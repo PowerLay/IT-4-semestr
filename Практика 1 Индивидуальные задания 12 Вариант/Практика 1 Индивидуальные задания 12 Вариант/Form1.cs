@@ -20,7 +20,6 @@ namespace Практика_1_Индивидуальные_задания_12_Ва
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = textBox1.Text;
-
         }
 
         private void Form1_Click(object sender, EventArgs e)
