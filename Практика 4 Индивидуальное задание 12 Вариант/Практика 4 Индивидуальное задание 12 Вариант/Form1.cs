@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Практика_4
+namespace Практика_4_Индивидуальное_задание_12_Вариант
 {
     public partial class Form1 : Form
     {
@@ -43,6 +43,7 @@ namespace Практика_4
                     textBox2.Text += "При m = " + textBox1.Text + Environment.NewLine;
                     textBox2.Text += "Расчет произведения ряда P = " + Convert.ToString(p) + Environment.NewLine;
                     break;
+                
             }
         }
 

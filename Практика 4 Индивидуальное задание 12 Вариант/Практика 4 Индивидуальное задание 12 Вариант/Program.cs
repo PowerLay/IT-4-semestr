@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Практика_4
+namespace Практика_4_Индивидуальное_задание_12_Вариант
 {
     static class Program
     {
