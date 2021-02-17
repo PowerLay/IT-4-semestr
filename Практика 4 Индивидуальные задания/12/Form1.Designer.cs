@@ -1,4 +1,4 @@
-﻿namespace Практика_4_Индивидуальное_задание_12_Вариант
+﻿namespace _12
 {
     partial class Form1
     {

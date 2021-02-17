@@ -4,9 +4,9 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{989E83E6-0DCD-442F-B085-BAB01D8D6433}</ProjectGuid>
+    <ProjectGuid>{3585B5E0-0D71-49A0-9A0A-C99863389490}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Практика_4_Индивидуальное_задание_12_Вариант</RootNamespace>
+    <RootNamespace>Практика_4_Индивидуальные_задания</RootNamespace>
     <AssemblyName>Практика 4 Индивидуальное задание 12 Вариант</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

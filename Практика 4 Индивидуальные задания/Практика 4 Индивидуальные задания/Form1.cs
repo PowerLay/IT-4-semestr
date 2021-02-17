@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Практика_4_Индивидуальное_задание_12_Вариант
+namespace Практика_4_Индивидуальные_задания
 {
     public partial class Form1 : Form
     {
